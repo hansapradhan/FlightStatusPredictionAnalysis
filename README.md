@@ -7,4 +7,4 @@ I have created a dash app for the visualization of the data.(Part of Information
 **Correlation and Covariance Tab:** Its for displaying the correlation or covariance matrix on the basis of a subset of columns.<br> 
 **Complex Plots:** These are the complex plots which I created to depict the data.<br> 
 
-Link to the app: [The Dash App](https://dashapp-jadd4w76ha-nn.a.run.app/)https://dashapp-jadd4w76ha-nn.a.run.app/
+Link to the app: [The Dash App](https://dashapp-jadd4w76ha-nn.a.run.app/)  
