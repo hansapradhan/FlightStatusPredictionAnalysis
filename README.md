@@ -1,4 +1,4 @@
-# MLTermProjectDataset
+# Machine Learning and Information Vizualization Term Projects Dataset
 This is the Dataset Repository for the Machine Learning and Information Visualization Term Project for my coursework at Virginia Tech
 
 I have created a dash app for the visualization of the data.(Part of Information Vizualization) <br> 
