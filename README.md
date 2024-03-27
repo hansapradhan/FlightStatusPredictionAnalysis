@@ -2,7 +2,13 @@
 
 ## Overview:
 This Dash app serves as a comprehensive tool for visualizing and analyzing the Flight Delay Dataset (2018-2022) for the Machine Learning and Information Visualization Term Project at Virginia Tech. The app is designed to provide users with various functionalities for data cleaning, statistical analysis, correlation and covariance exploration, and visualization of complex plots.
+## Link to the App:
 
+[The Dash App](https://dashapp-jadd4w76ha-nn.a.run.app/)  
+
+## Link to the Dataset:
+
+[Flight Delay Visualization Dashboard](https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022)
 ## Features:
 
 1. **Data Cleaning Tab:**
@@ -36,13 +42,7 @@ This Dash app serves as a comprehensive tool for visualizing and analyzing the F
      - Cluster analyses
      - Distribution plots
 
-## Link to the App:
 
-[The Dash App](https://dashapp-jadd4w76ha-nn.a.run.app/)  
-
-## Link to the Dataset:
-
-[Flight Delay Visualization Dashboard](https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022)
 
 **Note:** Users can navigate through different tabs to access specific functionalities and visualize various aspects of the dataset. The app aims to enhance the understanding of flight delay patterns and support informed decision-making processes.
 
