@@ -1,7 +1,7 @@
 # Flight Delay Visualization Dashboard
 
 ## Overview:
-This Dash app serves as a comprehensive tool for visualizing and analyzing the Flight Delay Dataset (2018-2022) for the Machine Learning and Information Visualization Term Project at Virginia Tech. The app is designed to provide users with various functionalities for data cleaning, statistical analysis, correlation and covariance exploration, and visualization of complex plots.
+This Dash app serves as a comprehensive tool for visualizing and analyzing the Flight Delay Dataset (2018-2022) for the Machine Learning and Information Visualization Term Project at Virginia Tech. The app is designed to provide users with various functionalities for data cleaning, statistical analysis, correlation and covariance exploration, and visualization of complex plots.(Couldn't add Code due to VT Policies)
 ## Link to the App:
 
 [The Dash App](https://dashapp-jadd4w76ha-nn.a.run.app/)  
