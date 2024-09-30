@@ -42,6 +42,7 @@ This Dash app serves as a comprehensive tool for visualizing and analyzing the F
      - Cluster analyses
      - Distribution plots
 
+![image](https://github.com/user-attachments/assets/8358f49e-4e82-4d47-9349-114fa2bdfa6a)
 
 
 **Note:** Users can navigate through different tabs to access specific functionalities and visualize various aspects of the dataset. The app aims to enhance the understanding of flight delay patterns and support informed decision-making processes.
