@@ -6,6 +6,8 @@ This Dash app serves as a comprehensive tool for visualizing and analyzing the F
 
 [The Dash App](https://dashapp-jadd4w76ha-nn.a.run.app/)  
 
+Note: The link to this app may not work but I may upload a video of this soon.
+
 ## Link to the Dataset:
 
 [Flight Delay Visualization Dashboard](https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022)
